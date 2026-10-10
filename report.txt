@@ -1,0 +1,18 @@
+WEB SCRAPING SUMMARY REPORT
+===================================
+
+Source URL: https://quotes.toscrape.com/
+
+DATA SUMMARY
+--------------------
+Total quotes: 10
+Unique authors: 8
+Unique tag combinations: 10
+
+TOP AUTHORS
+--------------------
+Albert Einstein: 3 quote(s)
+J.K. Rowling: 1 quote(s)
+Jane Austen: 1 quote(s)
+Marilyn Monroe: 1 quote(s)
+André Gide: 1 quote(s)
